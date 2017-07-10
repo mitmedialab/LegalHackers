@@ -18,12 +18,22 @@ Dazza Greenwood is on the editorial board for an upcoming compilation of article
 
 * More info here:  http://law.mit.edu/blog/computation-law-and-net
 
+
+## "CoreID" Individual Digital Identity and Personal Data 
+
+The CoreID research project is exploring business, legal and technical dimensions raised by providing individuals a digital "Core Identity" of their own.  This project has rapidly prototyped a blockchain enabled individual identity and digital signature open source application. This prototype will be used for testing the capabilities and suitability of decentralized blockchain public infrastructure to provide individual identity services for any person on the web. 
+
+* More on the research project (including links to code demo videos and Legal Hacker meetup sessions on extending this topic): https://law.mit.edu/blog/core-identity-blockchain-project
+* GitHub Repository of JOSE Based Prototype: https://github.com/mitmedialab/TrustCoreID and GitHub Pages URL: https://mitmedialab.github.io/TrustCoreID
+* GitHub Repository of BitCoin Core Library based Prototype: https://github.com/alexfigtree/CoreID/ 
+* Native American Digital Sovereign Identity scenario: https://github.com/mitmedialab/DigitalIdentitySessions/wiki/Topic-Page-for-Native-American-Digital-Identity
+
+
 ## Blockchain-Backed Digital Signature Mock Trial
 
-There will be a mock trial this fall at some point exploring practical admissibility and enforceability aspects of cryptographic digital signatures, attestations and "verified claims" executed with the public/private key pairs associated with a person's blockchain address and hence ensuring a digital signature on any electronic contract or other record can be publicly verifiable by reference to information accessible via a public blockchain to any person, any time.  We are doing a walk-through this Wednesday evening.
+There will be a mock trial this fall at some point exploring practical admissibility and enforceability aspects of cryptographic digital signatures, attestations and "verified claims" executed with the public/private key pairs associated with a person's blockchain address and hence ensuring a digital signature on any electronic contract or other record can be publicly verifiable by reference to information accessible via a public blockchain to any person, any time.  This mock trial uses the CoreID prototype code.  Massachusetts Legal hackers is doing a walk-through on July 12th. 
 
 * More on the Mock Trial here: https://mocktrial.github.io/BlockchainDigitalSignatures-2017 
-* More on the underlying research project here: https://law.mit.edu/blog/core-identity-blockchain-project
 
 ## Digital Identity and Law Lightning Talks and Unconference 
 
