@@ -2,6 +2,8 @@
 
 LegalHackers.org related research and development activities at law.MIT.edu, the Media Lab and MIT
 
+# Data Science/Applied Analytics, AI/ML and Automated/Autonomous Systems 
+
 ## "Computational Law" Related Research, Scholarship and Convening
 The emerging topic area of "Computational Law" is being developed at MIT and with partners in connection with data science and "computational social science" being pursued by Professor Sandy Pentland and the MIT Human Dynamics Lab.  
 
@@ -18,6 +20,13 @@ Dazza Greenwood is on the editorial board for an upcoming compilation of article
 
 * More info here:  http://law.mit.edu/blog/computation-law-and-net
 
+## Black Mirror Legal Discussion Group
+
+We are convening a regular "Black Mirror Legal Discussion Group" to do screenings of cool episodes and facilitate discussion of the legal fact patterns and related conundrums raised by the scenarios postulated in each episode.  This is part of the general drive toward constituting "Computational Law" as a new area of research, development, scholarship and entrepreneurship at MIT and with some partners/
+
+* More info here: https://computationallaw.org/popular-tv-as-a-tool-for-thinking-about-the-future-of-technology-law-society-59ae9c14aa30 
+
+# Digital Identity and Personal Data 
 
 ## "CoreID" Individual Digital Identity and Personal Data 
 
@@ -29,7 +38,7 @@ The CoreID research project is exploring business, legal and technical dimension
 * Native American Digital Sovereign Identity scenario: https://github.com/mitmedialab/DigitalIdentitySessions/wiki/Topic-Page-for-Native-American-Digital-Identity
 
 
-## Blockchain-Backed Digital Signature Mock Trial
+## Digital Signature Mock Trial
 
 There will be a mock trial this fall at some point exploring practical admissibility and enforceability aspects of cryptographic digital signatures, attestations and "verified claims" executed with the public/private key pairs associated with a person's blockchain address and hence ensuring a digital signature on any electronic contract or other record can be publicly verifiable by reference to information accessible via a public blockchain to any person, any time.  This mock trial uses the CoreID prototype code.  Massachusetts Legal hackers is doing a walk-through on July 12th. 
 
@@ -41,12 +50,18 @@ We are holding a digital identity and law unconference with lightning talks on J
 
 * More here: https://github.com/mitmedialab/DigitalIdentitySessions/wiki
 
-## Black Mirror Legal Discussion Group
-
-We are convening a regular "Black Mirror Legal Discussion Group" to do screenings of cool episodes and facilitate discussion of the legal fact patterns and related conundrums raised by the scenarios postulated in each episode.  This is part of the general drive toward constituting "Computational Law" as a new area of research, development, scholarship and entrepreneurship at MIT and with some partners/
-
-* More info here: https://computationallaw.org/popular-tv-as-a-tool-for-thinking-about-the-future-of-technology-law-society-59ae9c14aa30 
+# Blockchain and Distributed Ledger 
 
 ## Blockchain Briefing Book for Legal Professionals 
 We are developing a "Blockchain Briefing Book" for lawyers, law firms and legal professionals under Creative Commons license.
 * More info and initial artifacts here: https://github.com/mitmedialab/BlockchainBriefingBook 
+
+## Legislative Definition of Blockchain
+
+The law.MIT Research Team was honored to join with the Office of Congressman Schweikert, The Chamber of Digital Commerce, and The DC Blockchain Center for a constructive afternoon of off the record discourse on defining blockchains and smart contracts in federal legislation.
+
+* More at: http://mit.edu/blockchain/
+
+## Other Blockchain Activities
+* http://law.mit.edu/blockchain
+* https://twitter.com/thelawchain
